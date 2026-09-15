@@ -9,7 +9,7 @@ stored directly in the repository (large or live-editable files).
 Google Sheet with the full list of candidate sources, their URLs, modality,
 language, relevance and knowledge-base schema fields.
 
-Link: https://docs.google.com/spreadsheets/d/1FKBQuhSUWlqQgTAVeVQ32SvnhsTSQY9--a8DhrTWVeE/edit?gid=485529091#gid=485529091
+Link: https://docs.google.com/spreadsheets/d/1FKBQuhSUWIqQgTAVeVQ32SvnhsTSQY9--a8DhrTWVeE/edit?usp=sharing
 
 Note: A static snapshot of this inventory is also committed to the repo as
 `Jharkhand_Source_Inventory.xlsx` at the repository root. The Google Sheet is
